@@ -73,9 +73,6 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 */
 '''
-
-
-
 ## Output:
 ![WhatsApp Image 2025-01-03 at 08 59 23_c0281fc2](https://github.com/user-attachments/assets/c3e44e8b-70c2-4713-a830-fac1b5209926)
 
